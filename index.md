@@ -7,7 +7,8 @@ to ensure that the ad delivery system is able to differentiate between distinct 
 - [Handling Duplicate Pixel and Conversions API Events](https://developers.facebook.com/docs/marketing-api/conversions-api/deduplicate-pixel-and-server-events/)
 - [Additional Duplicate Info](https://www.facebook.com/business/help/823677331451951?id=1205376682832142)
 - [User Data Parameters](https://developers.facebook.com/docs/marketing-api/conversions-api/parameters/customer-information-parameters)
-### ViewContent
+
+## ViewContent
 
 *Pixel event data*
 
@@ -64,10 +65,9 @@ fbq("track", "ViewContent",
     }
 ]
 ```
-___
 
 
-### Add to Cart
+## Add to Cart
 
 *Pixel event data*
 ```
@@ -135,9 +135,8 @@ fbq("track", "AddToCart",
     }
 ]
 ```
-___
 
-### Purchase
+## Purchase
 
 *Pixel event data*
 
